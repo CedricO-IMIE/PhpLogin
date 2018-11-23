@@ -10,7 +10,7 @@ h1 {
 
 /* Style page */
 body {
-	background-color: #A63446;
+	background-color: grey;
 }
 
 /* Style des liens dans la barre de navigation */
@@ -27,9 +27,14 @@ body {
     margin-left: 44.5%;
 }
 
-/* Style du lien */
+/* Style des liens */
 .mdpo {
 	text-decoration: none;
-	text-align: center;
+	font-family: Arial;
+	margin-left: 40%;
 }
 
+/* Survole les liens */
+.mdpo:hover {
+	text-decoration: underline;
+}
