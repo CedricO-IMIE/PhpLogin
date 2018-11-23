@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<form action="/action_page.php">
+<form action="/login.php">
     <div class="container">
         <h1>S'inscrire</h1>
         <p>Completez ce formulaire pour vous inscrire.</p>
